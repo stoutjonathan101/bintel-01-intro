@@ -152,8 +152,6 @@ In your custom project:
 - this `README.md` should include your commands, process, and visuals
 - `docs/index.md` should include your narrative
 
-Replace these placeholders with screenshots from your own project run:
-
 ![Total Sales by Region](./docs/images/Figure_1.png)
 
 ![Total Sales by Product Category](./docs/images/Figure_2.png)
