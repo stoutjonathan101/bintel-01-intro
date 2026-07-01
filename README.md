@@ -139,29 +139,6 @@ You accidentally started Python interactive mode.
 It happens.
 Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 
-## Example Output (Remove this Section after You Verify)
-
-```shell
-| INFO | BI | ========================
-| INFO | BI | SUMMARY
-| INFO | BI | ========================
-| INFO | BI | Customers:  201 rows, 4 columns
-| INFO | BI | Products:   100 rows, 4 columns
-| INFO | BI | Sales:      2001 rows, 7 columns
-| INFO | BI | ========================
-| INFO | BI | ANALYST NOTES:
-| INFO | BI | Note any data quality issues.
-| INFO | BI | We will clean data later.
-| INFO | BI | ========================
-| INFO | BI | CALL a function to show charts........
-| INFO | BI | Workflow complete
-| INFO | BI | CLOSE chart windows to continue.
-| INFO | BI | Terminate this process with CTRL+c as needed.
-| INFO | BI | ========================
-| INFO | BI | Executed successfully!
-| INFO | BI | ========================
-```
-
 ## Findings and Visuals
 
 Take screenshots of your charts and provide them here with a discussion.
