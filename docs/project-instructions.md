@@ -53,9 +53,9 @@ Pushing to GitHub automagically triggers an action to deploy the docs.
 
 ## Portfolio Checklist
 
-- [ ] Working project
-- [ ] Meaningful insights with logged results
-- [ ] Understanding of your chosen domain
-- [ ] Accessible narrative
-- [ ] Images, tables, logs, or output conveying your work
-- [ ] GitHub About section linking to your GitHub Pages site
+- [x] Working project
+- [x] Meaningful insights with logged results
+- [x] Understanding of your chosen domain
+- [x] Accessible narrative
+- [x] Images, tables, logs, or output conveying your work
+- [x] GitHub About section linking to your GitHub Pages site

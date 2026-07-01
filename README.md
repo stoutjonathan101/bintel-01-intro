@@ -144,8 +144,9 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 Take screenshots of your charts and provide them here with a discussion.
 In Markdown, display a figure using:
 an exclamation mark immediately followed by square brackets containing a useful caption
-immediately followed by parentheses containing the relative path to your figure.
+immediately followed by parentheses containing the relative path to your figure. Completed 7/1/2026 - Jas
 
+![Total Sales by Product Category and Total Sales by Region](./docs/images/Jonathans_Ouput.png)
 In your custom project:
 
 - your figures and narrative should reflect your work
@@ -159,6 +160,15 @@ In your custom project:
 ## Project Documentation
 
 Additional project instructions, terms, and notes:
+
+Changes
+7/1/2026 -
+Copied App and created own use - uv run python -m bizintel.app_Jonathan
+What I changed: Added a custom log line inside main() in app_janelle.py.
+
+Why: To verify that my modified version of the app is running and to satisfy the technical modification requirement.
+
+Result: When running the script, the console prints “Running Jonathan's modified version of the app” before executing the workflow.
 
 [docs/index.md](docs/index.md)
 
